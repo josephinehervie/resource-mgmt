@@ -1,14 +1,21 @@
 [
-    {
-        "name": "MacBook Proled XDR 14\"",
-        "description": "Latest release from Apple with M5 Pro chip!",
-        "location": "Apple Stores",
-        "owner": "Cupertino..."
-    },
-    {
-        "name": "MacBook Proled XDR 16\"",
-        "description": "Latest release from Apple with M5 Max chip!",
-        "location": "Apple Stores",
-        "owner": "Cupertino..."
-    }
+  {
+    "name": "MacBook Proled XDR 14\"",
+    "description": "Latest release from Apple with M5 Pro chip!",
+    "location": "Apple Stores",
+    "owner": "Cupertino..."
+  },
+  {
+    "name": "MacBook Proled XDR 16\"",
+    "description": "Latest release from Apple with M5 Max chip!",
+    "location": "Apple Stores",
+    "owner": "Cupertino..."
+  },
+  {
+    "name": "testing 50-inch TV",
+    "location": "Blk 3 Lvl 5 Rm 1",
+    "description": "Purchased for XYZ Exhibition",
+    "owner": "john@gmail.com",
+    "id": "1793769766075126"
+  }
 ]
