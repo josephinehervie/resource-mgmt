@@ -40,4 +40,4 @@ async function editResource(req, res) {
             return res.status(500).json({ message: error.message });
         }
     }
-module.exports = { editResource };
+    module.exports = { editResource };
